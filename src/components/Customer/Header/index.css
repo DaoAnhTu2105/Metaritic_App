@@ -1,0 +1,11 @@
+.header-main-container {
+    width: 100vw;
+    background-color: black;
+    height: 100%;
+}
+
+.header-container {
+    height: 100%;
+    display: flex;
+    padding: 0px 80px;
+}

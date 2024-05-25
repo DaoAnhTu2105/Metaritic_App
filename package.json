@@ -17,9 +17,11 @@
     "@fortawesome/free-solid-svg-icons": "^6.5.2",
     "@fortawesome/react-fontawesome": "^0.2.0",
     "antd": "^5.16.2",
+    "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hot-toast": "^2.4.1",
+    "react-router-dom": "^6.23.1",
     "react-toastify": "^10.0.5",
     "sweetalert2": "^11.10.7"
   },
